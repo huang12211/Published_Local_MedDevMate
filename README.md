@@ -1,11 +1,15 @@
-# Product_Characterization_AI_Tools
+# Local_MedDevMate
 ## Overview:
-Tired of performing Product Characterization Reports manually? Well look no further because here is a tool that you can use to automate much of this process! 
+
+
+
+## Product Preliminary Hazard Analysis:
+Tired of performing Product Preliminary Hazard Analysis Reports manually? Well look no further because here is a tool that you can use to automate much of this process! 
 
 Tools that exist: 
 - Literature Review AI Assistants
 
-Tools that are under development:
+Tools that are in the backlog:
 - Maude Analysis AI Assistant
 
 ## Project status
